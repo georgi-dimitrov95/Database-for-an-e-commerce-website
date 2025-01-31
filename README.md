@@ -1,4 +1,5 @@
-# Database for an e-commerce website (developed with SQLite)
+# Database for an e-commerce website
+## Developed with SQLite
 
 By Georgi Dimitrov
 
