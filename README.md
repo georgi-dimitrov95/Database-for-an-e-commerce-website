@@ -1,7 +1,6 @@
 # Database for an e-commerce website
-## Developed with SQLite
-
-By Georgi Dimitrov
+### Video demo: <https://www.youtube.com/watch?v=ZnzWPvk3TuA>
+### Developed in January, 2025 with SQLite
 
 Brief description of some of the files:
 * `schema.sql` – Defines the database schema, including table structures, views, indexes and triggers.
