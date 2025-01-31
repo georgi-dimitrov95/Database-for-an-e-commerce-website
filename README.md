@@ -1,6 +1,6 @@
 # Database for an e-commerce website
-### Video demo: <https://www.youtube.com/watch?v=ZnzWPvk3TuA>
-### Disclaimer: the video is not up to date with the current (and final) version of the database
+### Video demo: <https://www.youtube.com/watch?v=FTHvGuIGJbE>
+### Disclaimer: before starting the video lower your volume, the first 5 seconds are rather loud, apologies!
 ### Developed in January, 2025 with SQLite
 
 Brief description of some of the files:
